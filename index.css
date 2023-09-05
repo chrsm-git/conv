@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    background-color: #B4CFB0;
+    border-radius: 1rem;
+}
+
+.container .btn{
+    background-color: #789395;
+}
+
+.container .btn:hover{
+    background-color: #789395;
+}
+
+.row .col p{
+    font-size: 18px;
+    font-weight: 400;
+}
